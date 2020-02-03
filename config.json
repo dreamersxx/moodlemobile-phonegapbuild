@@ -57,14 +57,13 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
- 
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
     "customurlscheme": "Rubeco",
-    "siteurl": "http://kleco.ddns.net:9000/",
+    "siteurl": "http://kleco.ddns.net:9000",
     "sitename": "Ruang Belajar Kleco",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
