@@ -21,6 +21,10 @@
             "package_name": "com.zeetechno.rubeco",
             "certificate_hash": "781db322c46bd5294b4cc8770e89ab7e74026932"
           }
+        },
+        {
+          "client_id": "760419868722-emn85m4kjd65p7q2vq3dsgpvrfk3ft2d.apps.googleusercontent.com",
+          "client_type": 3
         }
       ],
       "api_key": [
@@ -29,20 +33,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
           "other_platform_oauth_client": [
             {
               "client_id": "760419868722-emn85m4kjd65p7q2vq3dsgpvrfk3ft2d.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
