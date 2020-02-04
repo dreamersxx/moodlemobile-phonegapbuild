@@ -1,6 +1,6 @@
 {
-    "app_id": "com.zeetechno.rubeco",
-    "appname": "Moodle Mobile",
+    "app_id": "com.moodle.moodlemobile",
+    "appname": "RuBeCo",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3800,
     "versionname": "3.8.0",
@@ -8,7 +8,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "in",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -75,7 +75,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https:\/\/school.moodledemo.net",
     "sitename": "",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
