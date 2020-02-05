@@ -3,22 +3,22 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.zeetechno.rubeco"
-        versionCode = "38000"
-        android-versionCode = "38001"
-        ios-CFBundleVersion = "3.8.0.1"
-        version   = "3.8.0">
+        versionCode = "40000"
+        android-versionCode = "40001"
+        ios-CFBundleVersion = "4.0.0.1"
+        version   = "4.0.0">
     <name>RuBeCo</name>
 
     <description>
         Ruang Belajar Kleco Official App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://hizbulwathanpanduku.blogspot.com" email="hastoko.gusany@ymail.com">
         RuBeCo Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.8.0</string>
+        <string>4.0.0</string>
     </edit-config>
 
     <gap:platform name="ios" />
