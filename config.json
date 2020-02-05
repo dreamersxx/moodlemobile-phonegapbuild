@@ -68,7 +68,7 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    "privacypolicy": "https:\/\/moodle.org\/admin\/tool\/policy\/view.php?policyid=1",
     "notificoncolor": "#f98012",
     "statusbarbg": false,
     "statusbarlighttext": false,
